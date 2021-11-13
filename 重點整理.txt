@@ -1,0 +1,2 @@
+1.讀檔有空格用getline
+2.break判斷完L或l，break掉，重新做第一個迴圈。
